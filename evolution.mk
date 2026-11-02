@@ -137,8 +137,6 @@ PRODUCT_PACKAGES += \
     FontExotwoOverlay \
     FontDeterminationMonoOverlay \
     FontDeterminationSansOverlay \
-    FontEvoSansOverlay \
-    FontEvolveSansOverlay \
     FontFifa2018Overlay \
     FontGrandHotelOverlay \
     FontGeneralSansOverlay \
