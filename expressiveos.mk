@@ -220,6 +220,20 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonOverlay
 endif
 
+# Expressive Launcher draws the 3-button bar on phones (its taskbar, as the
+# Recents app), so the same styles also need overlays that target it.
+PRODUCT_PACKAGES += \
+    NavbarAndroidExpressiveLauncherOverlay \
+    NavbarAsusExpressiveLauncherOverlay \
+    NavbarDoraExpressiveLauncherOverlay \
+    NavbarMotoExpressiveLauncherOverlay \
+    NavbarNexusExpressiveLauncherOverlay \
+    NavbarOldExpressiveLauncherOverlay \
+    NavbarOnePlusExpressiveLauncherOverlay \
+    NavbarOneUiExpressiveLauncherOverlay \
+    NavbarSammyExpressiveLauncherOverlay \
+    NavbarTecnoCamonExpressiveLauncherOverlay
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
